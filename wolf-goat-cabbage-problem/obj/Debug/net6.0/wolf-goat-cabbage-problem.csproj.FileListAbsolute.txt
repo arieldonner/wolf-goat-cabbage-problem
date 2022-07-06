@@ -1,0 +1,15 @@
+C:\Users\18053\OneDrive\Documents\Ariel Donner\Programming\wolf-goat-cabbage-problem\wolf-goat-cabbage-problem\bin\Debug\net6.0\wolf-goat-cabbage-problem.exe
+C:\Users\18053\OneDrive\Documents\Ariel Donner\Programming\wolf-goat-cabbage-problem\wolf-goat-cabbage-problem\bin\Debug\net6.0\wolf-goat-cabbage-problem.deps.json
+C:\Users\18053\OneDrive\Documents\Ariel Donner\Programming\wolf-goat-cabbage-problem\wolf-goat-cabbage-problem\bin\Debug\net6.0\wolf-goat-cabbage-problem.runtimeconfig.json
+C:\Users\18053\OneDrive\Documents\Ariel Donner\Programming\wolf-goat-cabbage-problem\wolf-goat-cabbage-problem\bin\Debug\net6.0\wolf-goat-cabbage-problem.dll
+C:\Users\18053\OneDrive\Documents\Ariel Donner\Programming\wolf-goat-cabbage-problem\wolf-goat-cabbage-problem\bin\Debug\net6.0\ref\wolf-goat-cabbage-problem.dll
+C:\Users\18053\OneDrive\Documents\Ariel Donner\Programming\wolf-goat-cabbage-problem\wolf-goat-cabbage-problem\bin\Debug\net6.0\wolf-goat-cabbage-problem.pdb
+C:\Users\18053\OneDrive\Documents\Ariel Donner\Programming\wolf-goat-cabbage-problem\wolf-goat-cabbage-problem\obj\Debug\net6.0\wolf-goat-cabbage-problem.csproj.AssemblyReference.cache
+C:\Users\18053\OneDrive\Documents\Ariel Donner\Programming\wolf-goat-cabbage-problem\wolf-goat-cabbage-problem\obj\Debug\net6.0\wolf-goat-cabbage-problem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\18053\OneDrive\Documents\Ariel Donner\Programming\wolf-goat-cabbage-problem\wolf-goat-cabbage-problem\obj\Debug\net6.0\wolf-goat-cabbage-problem.AssemblyInfoInputs.cache
+C:\Users\18053\OneDrive\Documents\Ariel Donner\Programming\wolf-goat-cabbage-problem\wolf-goat-cabbage-problem\obj\Debug\net6.0\wolf-goat-cabbage-problem.AssemblyInfo.cs
+C:\Users\18053\OneDrive\Documents\Ariel Donner\Programming\wolf-goat-cabbage-problem\wolf-goat-cabbage-problem\obj\Debug\net6.0\wolf-goat-cabbage-problem.csproj.CoreCompileInputs.cache
+C:\Users\18053\OneDrive\Documents\Ariel Donner\Programming\wolf-goat-cabbage-problem\wolf-goat-cabbage-problem\obj\Debug\net6.0\wolf-goat-cabbage-problem.dll
+C:\Users\18053\OneDrive\Documents\Ariel Donner\Programming\wolf-goat-cabbage-problem\wolf-goat-cabbage-problem\obj\Debug\net6.0\ref\wolf-goat-cabbage-problem.dll
+C:\Users\18053\OneDrive\Documents\Ariel Donner\Programming\wolf-goat-cabbage-problem\wolf-goat-cabbage-problem\obj\Debug\net6.0\wolf-goat-cabbage-problem.pdb
+C:\Users\18053\OneDrive\Documents\Ariel Donner\Programming\wolf-goat-cabbage-problem\wolf-goat-cabbage-problem\obj\Debug\net6.0\wolf-goat-cabbage-problem.genruntimeconfig.cache
